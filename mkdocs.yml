@@ -1,10 +1,12 @@
 site_name: Nomad Desk Cost of Living Guide
 site_description: A city-by-city framework for comparing cost of living as a digital nomad
 site_url: https://nomaddeskhq.github.io/nomad-desk-cost-of-living-guide/
+docs_dir: docs/docs
 theme:
   name: readthedocs
 nav:
   - Home: index.md
+
 
 
 
